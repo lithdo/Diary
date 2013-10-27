@@ -7,3 +7,8 @@ h1 {
 article {
 	font-family: "DK-SONGTI";
 }
+
+/* 日记图片 */
+div.duokan-image-single {
+	margin-bottom: 20px;
+}
