@@ -15,12 +15,18 @@
 		
         <item id="title_page" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
 		<item id="2013-10-15" href="Text/2013-10-15.xhtml" media-type="application/xhtml+xml"/>    
-		<item id="2013-10-16" href="Text/2013-10-16.xhtml" media-type="application/xhtml+xml"/>      		
+		<item id="2013-10-16" href="Text/2013-10-16.xhtml" media-type="application/xhtml+xml"/>
+		<item id="2013-10-17" href="Text/2013-10-17.xhtml" media-type="application/xhtml+xml"/> 
+		<item id="2013-10-23" href="Text/2013-10-23.xhtml" media-type="application/xhtml+xml"/> 
+		<item id="2013-10-27" href="Text/2013-10-27.xhtml" media-type="application/xhtml+xml"/>          		
 	</manifest>
 
     <spine toc="ncx">
         <itemref idref="title_page"  properties="duokan-page-fullscreen"/>
         <itemref idref="2013-10-15"/>
         <itemref idref="2013-10-16"/>
+        <itemref idref="2013-10-17"/>
+        <itemref idref="2013-10-23"/>
+        <itemref idref="2013-10-27"/>
     </spine>
 </package>

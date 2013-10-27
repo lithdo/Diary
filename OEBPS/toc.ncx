@@ -27,7 +27,22 @@
 			<navPoint id="navPoint-3" playOrder="3">
 				<navLabel><text>2013.10.16</text></navLabel>
 				<content src="Text/2013-10-16.xhtml"/>			
+			</navPoint>				
+
+			<navPoint id="navPoint-4" playOrder="5">
+				<navLabel><text>2013.10.17</text></navLabel>
+				<content src="Text/2013-10-17.xhtml"/>			
 			</navPoint>			
+
+			<navPoint id="navPoint-5" playOrder="5">
+				<navLabel><text>2013.10.23</text></navLabel>
+				<content src="Text/2013-10-23.xhtml"/>			
+			</navPoint>			
+
+			<navPoint id="navPoint-6" playOrder="6">
+				<navLabel><text>2013.10.27</text></navLabel>
+				<content src="Text/2013-10-27.xhtml"/>			
+			</navPoint>		
 		</navPoint>
 	</navMap>
 </ncx>
