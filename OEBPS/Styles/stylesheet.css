@@ -1,0 +1,9 @@
+/* 日记标题 */
+h1 {
+	font-style: italic;
+}
+
+/* 日记内容 */
+article {
+	font-family: "DK-SONGTI";
+}
