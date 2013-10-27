@@ -14,11 +14,13 @@
         <item id="stylesheet" href="Styles/stylesheet.css" media-type="text/css"/>
 		
         <item id="title_page" href="Text/title_page.xhtml" media-type="application/xhtml+xml"/>
-		<item id="2013-10-15" href="Text/2013-10-15.xhtml" media-type="application/xhtml+xml"/>      		
+		<item id="2013-10-15" href="Text/2013-10-15.xhtml" media-type="application/xhtml+xml"/>    
+		<item id="2013-10-16" href="Text/2013-10-16.xhtml" media-type="application/xhtml+xml"/>      		
 	</manifest>
 
     <spine toc="ncx">
         <itemref idref="title_page"  properties="duokan-page-fullscreen"/>
         <itemref idref="2013-10-15"/>
+        <itemref idref="2013-10-16"/>
     </spine>
 </package>

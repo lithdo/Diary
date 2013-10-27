@@ -20,8 +20,13 @@
 			<content src="Text/title_page.xhtml"/>	
 
 			<navPoint id="navPoint-2" playOrder="2">
-				<navLabel><text>2013-10-15</text></navLabel>
+				<navLabel><text>2013.10.15</text></navLabel>
 				<content src="Text/2013-10-15.xhtml"/>			
+			</navPoint>			
+
+			<navPoint id="navPoint-3" playOrder="3">
+				<navLabel><text>2013.10.16</text></navLabel>
+				<content src="Text/2013-10-16.xhtml"/>			
 			</navPoint>			
 		</navPoint>
 	</navMap>
